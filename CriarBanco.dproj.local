@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/07/15 09:07:15.971,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/15 09:07:38.651,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Principal.pas=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/15 09:07:38.651,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Principal.dfm=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/15 09:07:49.647,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\CriarBanco.dproj=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/15 09:08:10.675,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Unit1.pas</Transaction>
+    <Transaction>2021/07/15 09:08:16.406,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Dados.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Unit1.pas</Transaction>
+    <Transaction>2021/07/15 09:08:16.406,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Dados.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Estudos Bancos\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
